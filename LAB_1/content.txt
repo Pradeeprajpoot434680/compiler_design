@@ -1,0 +1,12 @@
+int main function test start here number apple banana float value double amount while loop continue 
+break if condition else end random word sample text data include return sum total check switch case 
+default struct type union typedef short long signed unsigned char void const static auto extern register 
+goto inline volatile do for true false class not used hello world programming cpp java python code 
+string input output file read write compile execute success failure testing keyword example practice 
+learning count total calculate program run machine memory process system pointer reference variable 
+namespace using include define macro endline standard library header operator new delete public private
+protected friend virtual template try catch throw this sizeof bool enum export mutable explicit 
+nullptr thread_local alignas alignof decltype noexcept static_assert reinterpret_cast dynamic_cast 
+const_cast typeid compl and or xor not_eq bitand bitor xor_eq or_eq and_eq continue sample again 
+again random words hello data more words final check counting keywords inside file complete test 
+content done end finish stop

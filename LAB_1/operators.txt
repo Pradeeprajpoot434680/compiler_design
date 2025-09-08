@@ -1,0 +1,4 @@
+int main ( ) { int a = 10 ; int b = 20 ; a = a + b ; b = b - a ; if ( a > b && b != 0 ) { a ++ ; b -- ; } else 
+{ a *= 2 ; b /= 2 ; } for ( int i = 0 ; i < 5 ; i ++ ) { cout << a << b ; } while ( a <= 100 || b >= 5 )
+{ a += 3 ; b -= 1 ; } return 0 ; } sample text random word hello world check symbols [ ] { } function
+call test data string value compare == != >= <= end final done stop
