@@ -1,0 +1,6 @@
+C->P | F | class | id | XY
+P->public | ε
+F->final | ε
+X->extends | E
+I->id | J
+J->, | I | ε
